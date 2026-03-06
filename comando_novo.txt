@@ -1,1 +1,2 @@
 novo arquivo
+Change the file to see in the bash terminal
